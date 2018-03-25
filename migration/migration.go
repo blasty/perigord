@@ -21,9 +21,9 @@ import (
 
 	"github.com/ethereum/go-ethereum/accounts/abi/bind"
 
-	"github.com/polyswarm/perigord/contract"
-	"github.com/polyswarm/perigord/migration/bindings"
-	"github.com/polyswarm/perigord/network"
+	"github.com/blasty/perigord/contract"
+	"github.com/blasty/perigord/migration/bindings"
+	"github.com/blasty/perigord/network"
 )
 
 type MigrationFunc func(context.Context, *network.Network) error

@@ -24,8 +24,8 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/core/types"
 
-	"github.com/polyswarm/perigord/network"
-	"github.com/polyswarm/perigord/project"
+	"github.com/blasty/perigord/network"
+	"github.com/blasty/perigord/project"
 )
 
 type ContractDeployer interface {

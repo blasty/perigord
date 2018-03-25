@@ -4,7 +4,7 @@ package main
 import (
 //	"context"
 
-//	"github.com/polyswarm/perigord/migration"
+//	"github.com/blasty/perigord/migration"
 
 	_ "{{.project}}/migrations"
 )

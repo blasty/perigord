@@ -23,9 +23,9 @@ package testing
 import (
 	"context"
 
-	"github.com/polyswarm/perigord/contract"
-	"github.com/polyswarm/perigord/migration"
-	"github.com/polyswarm/perigord/network"
+	"github.com/blasty/perigord/contract"
+	"github.com/blasty/perigord/migration"
+	"github.com/blasty/perigord/network"
 )
 
 func SetUpTest() (*network.Network, error) {

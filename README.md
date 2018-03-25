@@ -56,7 +56,7 @@ $ popd
 ## Setup
 
 ```
-$ go get -u github.com/polyswarm/perigord/...
+$ go get -u github.com/blasty/perigord/...
 ```
 
 ### Dev Dependency: `go-bindata`

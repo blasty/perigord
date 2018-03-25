@@ -20,7 +20,7 @@ import (
 	"os/exec"
 	"runtime"
 
-	"github.com/polyswarm/perigord/project"
+	"github.com/blasty/perigord/project"
 )
 
 func Fatal(v ...interface{}) {
